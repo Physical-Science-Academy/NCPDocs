@@ -2,7 +2,7 @@
 title: NoCheatPlus Docs
 description: Leaen more about NoCheatPlus
 published: true
-date: 2023-05-06T23:18:55.849Z
+date: 2023-05-06T23:20:59.901Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:18:55.849Z
@@ -69,3 +69,9 @@ dateCreated: 2023-05-06T23:18:55.849Z
 * [PNX](https://github.com/PowerNukkitX/PowerNukkitX)
 
 * [EaseCation-Nukkit](https://github.com/EaseCation/Nukkit)
+
+## Contact us
+
+- [Discord](https://discord.gg/bCQ8pEgk4t)
+
+- [TencentQQ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ysAUd55Yl8WDcfk910CVmc6ROGf0RqFU&authKey=CHhN10VbvJV6zO81LLz44I3gVa8UvU%2BCfiGBmTMTgI4do29IJ55AlIptNu8ctzO7&noverify=0&group_code=603565881)
