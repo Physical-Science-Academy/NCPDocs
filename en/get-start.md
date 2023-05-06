@@ -2,7 +2,7 @@
 title: Get Start
 description: Fast Install NCP on Your Server
 published: true
-date: 2023-05-06T23:38:55.590Z
+date: 2023-05-06T23:42:59.023Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:29:10.274Z
@@ -23,3 +23,7 @@ You can find our historical construction version on Jenkins.
 * [MINEBBS (stable)](https://www.minebbs.com/resources/nocheatplus.5551/)
 
 * [PowerNukkitX Hub (current)](https://powernukkitx.com/hub/plugin/detail/Physical-Science-Academy/NoCheatPlus)
+
+### Download Library
+NCP is developed based on Kotlin, which means that you need to install KotlinLib on your server to ensure that it will work properly.
+- [KotlinLib](https://cloudburstmc.org/resources/kotlinlib.48/)
