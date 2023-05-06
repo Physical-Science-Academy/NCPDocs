@@ -2,7 +2,7 @@
 title: Commands
 description: The Usages of Commands in NCP
 published: true
-date: 2023-05-06T23:53:55.834Z
+date: 2023-05-06T23:58:01.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:53:55.834Z
@@ -41,3 +41,8 @@ This command is used to query the current NCP version information.
 excute `/ncp reload`
 
 Use this command to hot overload some parameters in your NCP configuration. Of course, it can't reload all the data, so you'd better restart your Nukkit server.
+
+### debug command
+excute `/ncp debug`
+
+This is the developer debugging command of NCP. Enter it to switch the debug mode. In debug mode, NCP will output some detection information. So, please don't turn on this function for the server in your production environment!
