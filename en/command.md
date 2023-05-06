@@ -2,7 +2,7 @@
 title: Commands
 description: The Usages of Commands in NCP
 published: true
-date: 2023-05-06T23:58:01.982Z
+date: 2023-05-06T23:59:15.902Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:53:55.834Z
@@ -46,3 +46,7 @@ Use this command to hot overload some parameters in your NCP configuration. Of c
 excute `/ncp debug`
 
 This is the developer debugging command of NCP. Enter it to switch the debug mode. In debug mode, NCP will output some detection information. So, please don't turn on this function for the server in your production environment!
+
+### ban command
+excuse:
+- `/ncp ban player) days`
