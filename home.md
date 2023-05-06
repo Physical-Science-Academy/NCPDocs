@@ -2,7 +2,7 @@
 title: NoCheatPlus Docs
 description: Leaen more about NoCheatPlus
 published: true
-date: 2023-05-06T23:20:59.901Z
+date: 2023-05-06T23:21:38.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:18:55.849Z
