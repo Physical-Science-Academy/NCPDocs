@@ -2,7 +2,7 @@
 title: Get Start
 description: Fast Install NCP on Your Server
 published: true
-date: 2023-05-06T23:42:59.023Z
+date: 2023-05-06T23:44:23.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:29:10.274Z
@@ -27,3 +27,6 @@ You can find our historical construction version on Jenkins.
 ### Download Library
 NCP is developed based on Kotlin, which means that you need to install KotlinLib on your server to ensure that it will work properly.
 - [KotlinLib](https://cloudburstmc.org/resources/kotlinlib.48/)
+
+### Start with Server
+Please run your server after you finish the above work. When you see NCP successfully loading all modules and prompt success, it means that it is already working.
