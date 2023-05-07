@@ -2,7 +2,7 @@
 title: Commands
 description: The Usages of Commands in NCP
 published: true
-date: 2023-05-07T00:29:38.915Z
+date: 2023-05-07T09:55:20.672Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:53:55.834Z
@@ -10,32 +10,32 @@ dateCreated: 2023-05-06T23:53:55.834Z
 
 # Command
 Overall, NCP has the following commands.
-- `/ncp` get the version info
+**Arguments in [ ] are considered optional.**
+- `/ncp` Shows the available commands and their arguments.
 
-- `/ncp version` get the version info
+- `/ncp version` Shows the version info of the plugin.
 
-- `/ncp reload` reload the config currently
+- `/ncp reload` Reloads the current config file.
 
-- `/ncp debug` toggle the debug mode
+- `/ncp debug` Toggles the Debug mode.
 
-- `/ncp ban` ban a player
+- `/ncp ban (playername) (days) [hours] [minutes]` Bans a player by his name
 
-- `/ncp unban` unban a player
+- `/ncp unban (playername)` Unbans a player by his name
 
-- `/ncp kick` kick a player
+- `/ncp kick` Kicks an online player
 
-- `/ncp toggle` Switch detection
+- `/ncp toggle (checkTypeName)` Enables/Disables a given Check
 
-- `/ncp permission` manage permissions.
+- `/ncp permission (create/remove) (checkTypeName) (permissionName)` Creates or removes a permission that allows bypassing the provided check.
 
 
 ### root command
-When you enter the main command `/ncp` in the server, the plug-in will output all commands owned by the current NCP. Of course, if there is a command that is not explained by NCP, it may be because you have installed an extension or an additional command added by a component.
+When you enter the main command `/ncp` in the console, the plugin will output all commands owned by the current NCP. Of course, if there is a command that is not explained by NCP, it may be because you have installed an extension or an additional command added by a component.
 
 ### version command
 execute `/ncp version`
-
-This command is used to query the current NCP version information.
+This command is used to output the current NCP version information.
 
 ### reload command
 excute `/ncp reload`
