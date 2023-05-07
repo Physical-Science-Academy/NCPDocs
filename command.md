@@ -2,7 +2,7 @@
 title: Commands
 description: The Usages of Commands in NCP
 published: true
-date: 2023-05-07T10:04:06.331Z
+date: 2023-05-07T10:05:50.244Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:53:55.834Z
