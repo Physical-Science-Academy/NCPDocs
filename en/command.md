@@ -2,7 +2,7 @@
 title: Commands
 description: The Usages of Commands in NCP
 published: true
-date: 2023-05-06T23:59:15.902Z
+date: 2023-05-07T00:01:25.206Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:53:55.834Z
@@ -49,4 +49,12 @@ This is the developer debugging command of NCP. Enter it to switch the debug mod
 
 ### ban command
 excuse:
-- `/ncp ban player) days`
+- `/ncp ban (player) (days)`
+- `/ncp ban (player) (days) (hours)`
+- `/ncp ban (player) (days) (hours) (minutes)`
+
+uUse this command to have NCP block some players on your server. Also, you can customize the ban.
+
+
+
+
