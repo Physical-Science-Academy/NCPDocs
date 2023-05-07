@@ -2,7 +2,7 @@
 title: NoCheatPlus Docs
 description: Leaen more about NoCheatPlus
 published: true
-date: 2023-05-06T23:21:38.188Z
+date: 2023-05-07T09:19:57.972Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:18:55.849Z
@@ -16,21 +16,21 @@ dateCreated: 2023-05-06T23:18:55.849Z
 
 - Learning from a well-known anti-cheat NoCheatPlus from Bukkit(Spigot).
 
-- We are in order to fix the bugs in Nukkit and prevent players from cheating.
+- We're actively developing to fix bugs and add more functionalities to prevent players from cheating.
 
-- You are supported to contribute, and give us a star to support our development.
+- You are most welcome to contribute and give us a star on GitHub.
 
 ---------
 
 ## Current Features
 
-- High-Performance、Low Occupancy、High Efficiency
+- High-Performance, Low Occupancy, High Efficiency
 
-- Light、International、Open Source
+- Light, International, Open Source
 
-- Protect your server, and prevent it from crashing
+- Protects your server, and prevent it from crashing
 
-- prevent players from cheating on your server
+- Prevents players from cheating on your server
 
 ---------
 
