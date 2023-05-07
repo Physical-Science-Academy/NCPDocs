@@ -2,14 +2,14 @@
 title: Get Started
 description: Fast Install NCP on Your Server
 published: true
-date: 2023-05-07T09:20:54.263Z
+date: 2023-05-07T09:20:58.841Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:29:10.274Z
 ---
 
 # Installation
-### Get Start
+### Get Started
 Find the download address on the home page and download the latest version of NoCheatPlus.Put the file you just downloaded into your server.
 
 ### Download NCP
