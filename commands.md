@@ -2,13 +2,12 @@
 title: Commands
 description: The Usages of Commands in NCP
 published: true
-date: 2023-05-07T10:05:50.244Z
+date: 2023-05-07T10:07:09.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:53:55.834Z
 ---
 
-# Command
 Overall, NCP has the following commands.
 **Arguments in [ ] are considered optional.**
 - `/ncp` Shows the available commands and their arguments.
