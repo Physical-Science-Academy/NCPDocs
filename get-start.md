@@ -2,7 +2,7 @@
 title: Get Started
 description: Fast Install NCP on Your Server
 published: true
-date: 2023-05-07T09:20:58.841Z
+date: 2023-05-07T09:22:47.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:29:10.274Z
