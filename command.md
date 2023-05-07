@@ -2,7 +2,7 @@
 title: Commands
 description: The Usages of Commands in NCP
 published: true
-date: 2023-05-07T09:58:03.591Z
+date: 2023-05-07T10:04:06.331Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:53:55.834Z
@@ -53,12 +53,12 @@ excute:
 - `/ncp ban (playername) (days) (hours)`
 - `/ncp ban (playername) (days) (hours) (minutes)`
 
-Use this command to ban players temporarily from your server. You can customize the Banning Module in the ``config``.
+Use this command to ban players temporarily from your server. You can customize the Banning Module in the `config`.
 
 ### unban command
 excute `/ncp unban (playername)`
 
-Unbans a player that was banned by ``/ncp ban``.
+Unbans a player that was banned by `/ncp ban`.
 
 ### kick command
 excute `/ncp kick (playername)`
@@ -66,3 +66,19 @@ excute `/ncp kick (playername)`
 Allows to kick a currently online player from your server.
 
 ### toggle command
+execute `/ncp toggle (checkTypeName)`
+
+Allows to disable or enable a Check registered in NCP. A list of Checks is displayed on server startup. The `checkTypeName` is the uppercase name of the Check Module (for example `MOVING_CREATIVE_FLY`).
+```
+[INFO ] [NoCheatPlus] Loading module: MOVING_CREATIVE_FLY 1.0.0
+[INFO ] [NoCheatPlus] Loading module: MOVING_NO_FALL 1.0.0
+[INFO ] [NoCheatPlus] Loading module: MOVING_VEHICLE 1.0.0
+[INFO ] [NoCheatPlus] Loading module: MOVING_SPEED 1.0.0
+[INFO ] [NoCheatPlus] Loading module: FIGHT_SPEED 1.0.0
+...
+```
+
+### permission command
+execute `/ncp permission (create/remove) (checkTypeName) (permissionName)`
+
+Allows to create / remove a permission which, if assigned to a player, enables the player to bypass the provided Check (provided by argument `checkTypeName`). To assign the created permission, you will need a Permission Manager like [LuckPerms](https://cloudburstmc.org/resources/luckperms.51/).
