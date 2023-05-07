@@ -2,7 +2,7 @@
 title: Get Started
 description: Fast Install NCP on Your Server
 published: true
-date: 2023-05-07T09:36:48.091Z
+date: 2023-05-07T09:37:18.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-06T23:29:10.274Z
@@ -32,4 +32,4 @@ However if you want to use a specific release, you can find the build history of
 
 ### Start the Server
 After you've completed all the steps before, start up the server and read the logs. If NCP started successfully a message like ``NoCheatPlus loaded successfully!`` should appear. If make sure that you've installed [KotlinLib](https://cloudburstmc.org/resources/kotlinlib.48/) before.
-If you still have problems starting the plugin, you can get help on Discord.
+If you still have problems starting the plugin, you can get help on [Discord](https://discord.gg/bCQ8pEgk4t).
